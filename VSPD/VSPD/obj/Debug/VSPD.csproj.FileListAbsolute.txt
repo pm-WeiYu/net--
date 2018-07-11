@@ -1,0 +1,9 @@
+d:\我的文档\visual studio 2015\Projects\VSPD\VSPD\bin\Debug\VSPD.exe.config
+d:\我的文档\visual studio 2015\Projects\VSPD\VSPD\bin\Debug\VSPD.exe
+d:\我的文档\visual studio 2015\Projects\VSPD\VSPD\bin\Debug\VSPD.pdb
+d:\我的文档\visual studio 2015\Projects\VSPD\VSPD\obj\Debug\VSPD.csprojResolveAssemblyReference.cache
+d:\我的文档\visual studio 2015\Projects\VSPD\VSPD\obj\Debug\VSPD.Form1.resources
+d:\我的文档\visual studio 2015\Projects\VSPD\VSPD\obj\Debug\VSPD.Properties.Resources.resources
+d:\我的文档\visual studio 2015\Projects\VSPD\VSPD\obj\Debug\VSPD.csproj.GenerateResource.Cache
+d:\我的文档\visual studio 2015\Projects\VSPD\VSPD\obj\Debug\VSPD.exe
+d:\我的文档\visual studio 2015\Projects\VSPD\VSPD\obj\Debug\VSPD.pdb
